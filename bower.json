@@ -1,0 +1,14 @@
+{
+  "name": "COMP_1054_Project_2_Artem",
+  "homepage": "https://github.com/Artemiermak/aiwebsite",
+  "authors": [
+    "Artemiermak <outpacer@ex.ua>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^4.6.1",
+    "jquery": "^2.2.3"
+  }
+}
